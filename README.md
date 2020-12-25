@@ -28,7 +28,7 @@
 
 <br/>
 <h2 id="prerequisitos">Pré-requisitos</h2>
-<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+<p>Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
 <a href="https://git-scm.com">Git</a>. 
 Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VSCode</a>.</p>
 
